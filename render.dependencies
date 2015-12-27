@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "gh",
+    "repository":	"zaclimon/Quanta-Flo",
+    "target_path":	"kernel/asus/flo",
+    "revision": "quanta-6.0"
+  },
+  {
+    "remote": "bb",
+    "repository":	"UBERTC/arm-eabi-5.2",
+    "target_path":	"toolchains/arm-eabi-5.2",
+    "revision": "master"
+  }
+]
